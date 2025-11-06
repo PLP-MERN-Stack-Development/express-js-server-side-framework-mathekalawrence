@@ -60,3 +60,24 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 - [Express.js Documentation](https://expressjs.com/)
 - [RESTful API Design Best Practices](https://restfulapi.net/)
 - [HTTP Status Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status) 
+
+
+# Express.js Products API
+
+A RESTful API for managing products built with Express.js, featuring proper routing, middleware, authentication, validation, and error handling.
+
+## Features
+
+- RESTful API design
+- Custom middleware (logging, authentication, validation)
+- Comprehensive error handling
+- Filtering, pagination, and search
+- Product statistics
+- API key authentication.
+
+## Installation
+
+1. Cloning the repository:
+```bash
+git clone https://github.com/PLP-MERN-Stack-Development/express-js-server-side-framework-mathekalawrence.git
+cd express-products-api
